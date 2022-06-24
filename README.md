@@ -2,7 +2,7 @@
 
 **Simon Game** - an electronic game of memory skill. The buttons creates a series of tones and lights and requires YOU to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. Once the user fails, the game is over. How many levels can YOU pass?
 
-> <p><a href="https://alexandrurudoi.github.io/Simon-Game/">Simon Game</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ralexhp25/">Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+> <p><a href="https://alexandrurudoi.github.io/Simon-Game/">Link</a></p>
 
 ---
 
