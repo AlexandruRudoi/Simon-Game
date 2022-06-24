@@ -26,4 +26,4 @@
 
 ---
 
-<p align="center"><em>&copy;Alexandru Rudoi</em></p>
+<p align="center"><em>&copy; Alexandru Rudoi</em></p>
